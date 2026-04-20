@@ -1,0 +1,87 @@
+{
+  "personal": {
+    "name": "Ahmed Bilal Syed",
+    "title": "Full Stack Web Developer",
+    "tagline": "Building scalable web applications with modern technologies",
+    "email": "ahmedbilal20029@gmail.com",
+    "phone": "+92 323 6161660",
+    "location": "Gujrat, Punjab, Pakistan",
+    "bio": "Full Stack Web Developer with approximately 1.5 years of practical experience in web application development. Experienced in building modern web applications, developing responsive front-end interfaces, and integrating backend APIs. Passionate about building scalable applications, learning modern technologies, and solving real-world problems through software.",
+    "available": true,
+    "avatarInitials": "ABS"
+  },
+  "social": {
+    "github": "https://github.com/ahmedbilal",
+    "linkedin": "https://linkedin.com/in/ahmedbilal",
+    "twitter": ""
+  },
+  "skills": {
+    "Frontend": ["React", "Remix", "Tailwind CSS", "HTML5", "CSS3", "JavaScript"],
+    "Backend": ["Node.js", "API Integration", "Backend Development"],
+    "Tools": ["Git", "GitHub", "REST APIs"],
+    "Concepts": ["Responsive Design", "Web Application Architecture", "Debugging"]
+  },
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "Full Stack Developer",
+      "company": "Sheraian Limited",
+      "location": "Cardiff, United Kingdom (Remote)",
+      "type": "Full-time",
+      "period": "June 2025 – Present",
+      "current": true,
+      "description": "Started as a Front-End Developer and later transitioned into a Full Stack Developer role.",
+      "highlights": [
+        "Developed responsive web interfaces and integrated APIs for modern web applications",
+        "Worked with modern JavaScript frameworks and backend services to build scalable features",
+        "Collaborated with development teams to implement new product functionality",
+        "Improved application performance across multiple product areas"
+      ],
+      "technologies": ["React", "Node.js", "REST APIs", "JavaScript"]
+    },
+    {
+      "id": "exp-2",
+      "role": "Web Development Intern",
+      "company": "Adan IT Center",
+      "location": "Pakistan",
+      "type": "Internship",
+      "period": "Oct 2024 – Early 2025",
+      "current": false,
+      "description": "Started professional career as a Web Development Intern gaining hands-on experience in modern development workflows.",
+      "highlights": [
+        "Gained hands-on experience in HTML, CSS, JavaScript",
+        "Assisted in building and maintaining web applications",
+        "Learned industry development standards and practices",
+        "Contributed to real client projects under senior guidance"
+      ],
+      "technologies": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "degree": "Bachelor's in Information Technology",
+      "institution": "University of Gujrat",
+      "location": "Gujrat, Pakistan",
+      "period": "2022 – 2024",
+      "description": "Studied core concepts of information technology, software engineering, and web development."
+    }
+  ],
+  "training": [
+    {
+      "id": "train-1",
+      "title": "Advanced Web Development Program",
+      "organization": "NAVTTC",
+      "fullName": "National Vocational & Technical Training Commission",
+      "period": "March 2025 – Present",
+      "description": "Completed advanced training focused on modern web technologies, application architecture, and professional development workflows."
+    }
+  ],
+  "projects": [],
+  "blog": [],
+  "meta": {
+    "siteTitle": "Ahmed Bilal Syed — Full Stack Developer",
+    "siteDescription": "Portfolio of Ahmed Bilal Syed, a Full Stack Web Developer based in Gujrat, Pakistan.",
+    "keywords": ["Full Stack Developer", "React", "Node.js", "Web Developer", "Pakistan"]
+  }
+}
