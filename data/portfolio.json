@@ -11,8 +11,8 @@
     "avatarInitials": "ABS"
   },
   "social": {
-    "github": "https://github.com/ahmedbilal",
-    "linkedin": "https://linkedin.com/in/ahmedbilal",
+    "github": "https://github.com/AhmedBilal-Syed",
+    "linkedin": "https://www.linkedin.com/in/ahmed-bilal-syed200209/",
     "twitter": ""
   },
   "skills": {
@@ -77,7 +77,44 @@
       "description": "Completed advanced training focused on modern web technologies, application architecture, and professional development workflows."
     }
   ],
-  "projects": [],
+ "projects": [
+  {
+    "id": 1,
+    "title": "LMS Portal",
+    "description": "A comprehensive Learning Management System portal for managing courses, students, and educational content. Features include course enrollment, progress tracking, and interactive learning modules.",
+    "technologies": ["React", "Node.js", "MongoDB", "Express", "JWT"],
+    "github": "",
+    "live": "https://student.pengravity.com/",
+    "image": "/project1.png"
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce Site",
+    "description": "Modern e-commerce platform with seamless shopping experience, product filtering, cart management, and secure checkout process. Built for optimal performance and user engagement.",
+    "technologies": ["Next.js", "Tailwind CSS", "Stripe", "PostgreSQL", "Prisma"],
+    "github": "",
+    "live": "https://rice-slaples.vercel.app/",
+    "image": "/project2.png"
+  },
+  {
+    "id": 3,
+    "title": "Freelancer Assistance",
+    "description": "Platform designed to help freelancers manage their projects, track time, handle invoices, and connect with clients efficiently. Streamlines freelance workflow management.",
+    "technologies": ["React", "Firebase", "Material-UI", "Node.js", "Express"],
+    "github": "",
+    "live": "https://freelancer-assistance.vercel.app/",
+    "image": "/project3.png"
+  },
+  {
+    "id": 4,
+    "title": "Khushhali Marketplace",
+    "description": "Multi-vendor e-commerce marketplace platform connecting buyers and sellers. Features vendor dashboards, product management, reviews system, and secure payment integration.",
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "MongoDB", "NextAuth"],
+    "github": "",
+    "live": "https://khushhali.com/",
+    "image": "/project4.png"
+  }
+],
   "blog": [],
   "meta": {
     "siteTitle": "Ahmed Bilal Syed — Full Stack Developer",

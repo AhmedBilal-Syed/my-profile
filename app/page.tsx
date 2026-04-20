@@ -22,8 +22,6 @@ export default function Home() {
       <div className="section-divider" />
       <Projects />
       <div className="section-divider" />
-      <Blog />
-      <div className="section-divider" />
       <Contact />
       <Footer />
     </main>
